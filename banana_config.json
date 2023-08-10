@@ -20,7 +20,7 @@
             "description": "Maximum tokens which are outputted by the model.",
             "type": "number",
             "required": false,
-            "min": 1
+            "min": 100
         }
     ],
     "examples": [
