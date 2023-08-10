@@ -42,7 +42,7 @@ docker run --publish 8000:8000 -it firefly-llama2-13b-v1.2-gptq
 In another terminal, run inference after the above is built and running.
 
 ```sh
-curl -X POST -H 'Content-Type: application/json' -d '{"prompt":"Tell me about AI}' http://localhost:8000
+curl -X POST -H 'Content-Type: application/json' -d '{"prompt":"Tell me about AI"}' http://localhost:8000
 ```
 
 ### Without Docker (not recommended)
