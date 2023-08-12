@@ -1,4 +1,3 @@
-# demo-firefly-llama2-13b-v1.2-gptq
 ![](https://www.banana.dev/lib_zOkYpJoyYVcAamDf/x2p804nk9qvjb1vg.svg?w=340 "Banana.dev")
 
 # Banana.dev Firefly-Llama2-13B-v1.2-GPTQ starter template
